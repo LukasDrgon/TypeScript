@@ -22,6 +22,12 @@ For our nightly builds:
 npm install -g typescript@next
 ```
 
+Including via CDN:
+
+```html
+<script src="https://cdn.jsdelivr.net/npm/typescript@2/lib/typescript.min.js"></script>
+```
+
 ## Contribute
 
 There are many ways to [contribute](https://github.com/Microsoft/TypeScript/blob/master/CONTRIBUTING.md) to TypeScript.
